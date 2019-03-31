@@ -8,10 +8,10 @@
 
 ```
 CV_python_toolbox/
-	script/
-		filter.py
-	src/
-		basic_cv_toolbox.py
+    src/
+	basic_cv_toolbox.py
+    test/
+    	rebuild.py
 images/
 	*
 code.txt
