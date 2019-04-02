@@ -18,6 +18,7 @@ code.txt
 README.md
 .gitignore
 ```
+For previous homework, click [me](https://1989Ryan.github.io/DIPhw/diphw.html).
 ## Prerequisite
 
 Python-Opencv
