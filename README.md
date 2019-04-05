@@ -1,4 +1,8 @@
 # 数字图像处理作业6
+
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+
+
 自动化钱61 赵子瑞 2160405068
 ## 作业说明
 
